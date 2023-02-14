@@ -5,10 +5,16 @@
 
 h2 {
   font-size: 72px;
+  color: #FFFFFF;
 }
 
 text {
   font-size: 18px;
+}
+
+.blue{
+  background-color: #043873;
+
 }
 
 .your_work {
@@ -19,7 +25,8 @@ text {
   background-color: #4F9CF9;
   width: 195px;
   height: 63px;
-  border-radius: 8%;
+  line-height: 63px;
+  border-radius: 8px;
 }
 .btn:hover {
   opacity: 0.7;
